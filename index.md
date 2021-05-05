@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue dans la page dédiée aux oeuvres d'art du 19ème siécle 
 
 You can use the [editor on GitHub](https://github.com/Zale-14/Le-si-cle-des-lumi-res/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
